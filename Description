@@ -1,2 +1,11 @@
-This project showcases a beautiful and functional analog clock implemented using web technologies - HTML, CSS, and JavaScript. 
-With elegant design and smooth animations, this analog clock not only tells you the current time but also serves as a testament to the power of front-end web development.
+Key Features:
+
+Sleek Design: Our analog clock boasts a sleek and minimalist design that enhances readability and visual appeal.
+
+Real-Time Updates: Using JavaScript's Date object, the clock displays the accurate current time, updating in real-time without the need for page refresh.
+
+Smooth Animations: Enjoy smooth, second-by-second rotations of the clock hands, providing a seamless and immersive user experience.
+
+Customizable Styles: The clock's appearance is highly customizable. Modify the CSS to change colors, sizes, and styles, tailoring it to fit seamlessly into any web project.
+
+Lightweight and Responsive: Built with performance in mind, this clock is lightweight and responsive, ensuring optimal user experience across various devices and screen sizes.
